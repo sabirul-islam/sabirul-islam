@@ -1,9 +1,9 @@
 ## Md Sabirul Islam 👋 A little bit about me
 
-👉 I am a full time programmer for me.
-👉 I am a caring father for my baby.
-👉 I am a good husband for my wife.
-👉 I am a responsible son for my parents.
+👉 I am a full time programmer for me.  
+👉 I am a caring father for my baby.  
+👉 I am a good husband for my wife.  
+👉 I am a responsible son for my parents.  
 👉 I am a trustable person for my client.
 
 ## Want to contact me? Then scratch below 👇
