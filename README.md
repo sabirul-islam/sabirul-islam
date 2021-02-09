@@ -33,4 +33,4 @@ Name | Languges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirul-islam&langs_count=8)](https://github.com/sabirul-islam)
 
 ## Walktime Week Stats
-[![Shimul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/sabirul-islam)
+[![Shimul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabirul-islam)](https://github.com/sabirul-islam)
