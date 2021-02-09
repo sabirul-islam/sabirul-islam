@@ -30,7 +30,7 @@ Name | Languges
 [![shimul's gitHub stats](https://github-readme-stats.vercel.app/api?username=sabirul-islam&show_icons=true&theme=cobalt)](https://github.com/sabirul-islam)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirul-islam&langs_count=8)](https://github.com/sabirul-islam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirul-islam&langs_count=10&layout=compact)](https://github.com/sabirul-islam)
 
 ## Walktime Week Stats
 [![Shimul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabirul_islam)](https://github.com/sabirul-islam)
