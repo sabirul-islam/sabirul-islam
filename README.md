@@ -28,3 +28,6 @@ Name | Languges
 
 ## My Github Stats
 [![shimul's gitHub stats](https://github-readme-stats.vercel.app/api?username=sabirul-islam&show_icons=true&theme=radical)](https://github.com/sabirul-islam)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirul-islam&langs_count=8)](https://github.com/sabirul-islam)
