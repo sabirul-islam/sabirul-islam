@@ -14,7 +14,7 @@
 [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612868587~hmac=99d45a135cfc014868afb9937fef996b" width="40" height="40">](https://www.instagram.com/mdsabirulislamshimul/)
 [<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612868116~hmac=68a3171221e87f4a808a798d4b328e23" width="40" height="40">](https://www.linkedin.com/in/mdsabirulislam/)
 [<img src="https://www.flaticon.com/svg/vstatic/svg/124/124039.svg?token=exp=1612868238~hmac=0e5b3c27681338d0146b6dd08a830eed" width="40" height="40">](https://www.pinterest.com/mdsabirulislamshimul/)
-[<img src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1612868411~hmac=9cdeae6b20e0e30fb32e078397e3d965" width="40" height="40">](mailto:sabirul.shimul@gmail.com)
+[<img src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1612868411~hmac=9cdeae6b20e0e30fb32e078397e3d965" width="40" height="44">](mailto:sabirul.shimul@gmail.com)
 
 ## My Expertise
 Name | Languges
