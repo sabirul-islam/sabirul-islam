@@ -13,7 +13,7 @@
 [<img src="https://1.bp.blogspot.com/-tLOdCdFwBXw/U8iX_exEUqI/AAAAAAAALpY/7BcWFjPggaA/s1600/twitter.png">](https://twitter.com/mdsabirulislam_)
 [<img src="https://2.bp.blogspot.com/-9qHtPdtA-gE/U8iX531XNwI/AAAAAAAALnk/6wD_u6wtZhs/s1600/instagram.png">](https://www.instagram.com/mdsabirulislamshimul/)
 [<img src="https://3.bp.blogspot.com/-V6TDR3wxbxA/U8iX6Z0eCAI/AAAAAAAALns/DKqXbbxJrMY/s1600/mail.png">](mailto:sabirul.shimul@gmail.com)
-[<img src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1612867363~hmac=426a47c1a7bbc12a8efa56d0c77e1edb">](mailto:sabirul.shimul@gmail.com)
+[<img src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1612867363~hmac=426a47c1a7bbc12a8efa56d0c77e1edb"  width="32" height="32">](mailto:sabirul.shimul@gmail.com)
 
 ## My Expertise
 Name | Languges
