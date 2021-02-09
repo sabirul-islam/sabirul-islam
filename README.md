@@ -22,6 +22,6 @@ Name | Languges
 👉 **Markup** | html
 👉 **Style sheet** | css
 👉 **Core** | javascript, golang
-👉 **Library/Framework** | bootstrap, material ui, react, redux nodejs, express, mongoose
+👉 **Library/Framework** | bootstrap, material ui, react, redux, nodejs, express, mongoose
 👉 **Database** | mongodb, mysql
-👉 **Tools** | firebase, netlify, json, git, github, rest api
+👉 **Tools** | firebase, netlify, heroku, json, git, github, rest api
