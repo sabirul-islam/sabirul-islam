@@ -26,5 +26,5 @@ Name | Languges
 👉 **Database** | mongodb, mysql
 👉 **Tools** | firebase, netlify, heroku, json, git, github, rest api
 
-## github stats
-[![my gitHub stats](https://github-readme-stats.vercel.app/api?username=sabirul-islam)](https://github.com/sabirul-islam/github-readme-stats)
+## My Github Stats
+[![shimul's gitHub stats](https://github-readme-stats.vercel.app/api?username=sabirul-islam)](https://github.com/sabirul-islam/github-readme-stats)
